@@ -1,0 +1,12 @@
+Comparación entre IA y código personal.
+- La página que diseñe, se ve mucho mejor porque usa imágenes, colores y una estructura bien definida, mientras que
+la página generada por IA es solo texto, sin estilos ni imágenes, lo que la hace más simple visualmente.
+
+- En cuanto a estructura, la versión que hice organiza bien las secciones y los botones, mientras que la de IA mantiene 
+la jerarquía del contenido, pero de forma más plana y sin tanto orden.
+
+- Sobre interactividad, la página que desarrolle tiene botones bien diseñados con enlaces integrados, mientras que en la 
+versión de IA los enlaces aparecen en texto sin mucho diseño, lo que la hace menos atractiva.
+
+- En términos de experiencia de usuario , la página que hice en HTML5 es más intuitiva y fácil de usar gracias a su diseño visual,
+ mientras que la de IA, aunque tiene un contenido claro, es menos amigable porque no tiene estilos ni una distribución llamativa.
